@@ -9,11 +9,10 @@ Hooks=rc
 /**
  * justygotop plugin
  *
- * @author  WebRomen
- * @copyright Copyright (C) 2014 - today: WebRomen | https://github.com/WebRomen/justygotop
+ * @author Roffun
+ * @copyright Copyright (C) 2014 - today: Roffun | https://webcot.net/cotonti/extensions/justygotop-plugin
  * @license BSD
  */
-
 defined('COT_CODE') or die('Wrong URL');
 if ($cfg['plugin']['justygotop']['css'] == 1)
 {

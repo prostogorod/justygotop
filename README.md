@@ -1,5 +1,7 @@
-# ПЛАГИН «JUSTYGOTOP» CMF COTONTI
+# PLUGIN «JUSTYGOTOP» FOR COTONTI
 
-Плагин «Justygotop» под Cotonti предназначен для вывода кнопки скроллинга вверх/вниз с настраиваемыми параметрами.
+Plugin «Justygotop» under Cotonti designed to display the scroll up / down buttons with customizable parameters.
 
-Copyright (C) 2014 - today: WebRomen | https://github.com/WebRomen/justygotop
+Russian documentation: https://webcot.net/cotonti/extensions/justygotop-plugin
+
+Copyright (C) 2014 - today: Roffun | https://webcot.net

@@ -7,9 +7,9 @@ Name=Justygotop
 Category=navigation-structure
 Description=Настраиваемая кнопка скроллинга вверх
 Version=1.2.1
-Date=26-11-2016
-Author=WebRomen 
-Copyright=Copyright (C) 2014 - today: WebRomen | https://github.com/WebRomen/justygotop
+Date=08-12-2016
+Author=Roffun
+Copyright=Copyright (C) 2014 - today: Roffun | https://webcot.net/cotonti/extensions/justygotop-plugin
 Notes=BSD License
 SQL=
 Auth_guests=R
@@ -29,8 +29,8 @@ css=99:radio::1:
 /**
  * justygotop plugin
  *
- * @author  WebRomen
- * @copyright Copyright (C) 2014 - today: WebRomen | https://github.com/WebRomen/justygotop
+ * @author Roffun
+ * @copyright Copyright (C) 2014 - today: Roffun | https://webcot.net/cotonti/extensions/justygotop-plugin
  * @license BSD
  */
 

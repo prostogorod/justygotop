@@ -3,8 +3,8 @@
 /**
  * Русский языковый файл плагина justygotop
  *
- * @author  WebRomen
- * @copyright Copyright (C) 2014 - today: WebRomen | https://github.com/WebRomen/justygotop
+ * @author Roffun
+ * @copyright Copyright (C) 2014 - today: Roffun | https://webcot.net/cotonti/extensions/justygotop-plugin
  * @license BSD
  */
 
