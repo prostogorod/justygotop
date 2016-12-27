@@ -9,7 +9,7 @@ Description=Настраиваемая кнопка скроллинга вве�
 Version=1.2.1
 Date=08-12-2016
 Author=Roffun
-Copyright=Copyright (C) 2014 - today: Roffun | https://webcot.net/cotonti/extensions/justygotop-plugin
+Copyright=Copyright (c) 2014 - today: Roffun | https://github.com/Roffun
 Notes=BSD License
 SQL=
 Auth_guests=R
@@ -30,7 +30,7 @@ css=99:radio::1:
  * justygotop plugin
  *
  * @author Roffun
- * @copyright Copyright (C) 2014 - today: Roffun | https://webcot.net/cotonti/extensions/justygotop-plugin
+ * @copyright Copyright (c) 2014 - today: Roffun | https://github.com/Roffun
  * @license BSD
  */
 
