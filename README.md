@@ -2,6 +2,6 @@
 
 Plugin «Justygotop» under Cotonti designed to display the scroll up / down buttons with customizable parameters.
 
-Russian documentation: https://webcot.net/cotonti/extensions/justygotop-plugin
+Russian documentation: https://github.com/Roffun/justygotop/wiki
 
-Copyright (C) 2014 - today: Roffun | https://webcot.net
+Copyright (C) 2014 - today: Roffun | https://github.com/Roffun
